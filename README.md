@@ -1,2 +1,2 @@
 # estudos-ansible
-Estudo destinados a automatização em Ansible
+Estudos destinado a automatização de tarefas utilizando Ansible.
